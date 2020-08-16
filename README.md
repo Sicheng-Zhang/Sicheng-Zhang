@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there
+
+This is Sicheng Zhang.
+
 
 <!--
 **Sicheng-Zhang/Sicheng-Zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
